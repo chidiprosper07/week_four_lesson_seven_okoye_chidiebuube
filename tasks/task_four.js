@@ -1,4 +1,4 @@
-##JavaScript Week One Lesson Two Tasks
+##JavaScript Week four Lesson seven Tasks
 
 ##How to run/test this project
 
