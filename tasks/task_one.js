@@ -18,7 +18,8 @@ onclick="js_style()">Style</button>
 Make the font, font size, and colour of the paragraph text will be changed when you click the button. */
 
 function js_style () {
-  let changeStyle = document.getElementById('text').style.color = '#dcbc02'
-  changeStyle += document.getElementById('text').style.fontSize = '24px'
-  changeStyle += document.getElementById('text').style.fontFamily = 'Gill Sans, sans-serif'
+  let text = document.getElementById('text');
+  text.style.color = '#0000ff'
+  text.style.fontSize = '50px'
+  text.style.fontFamily = 'Gill Sans, sans-serif'
 }

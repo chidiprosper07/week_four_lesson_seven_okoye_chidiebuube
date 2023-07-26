@@ -5,6 +5,7 @@
 //<html><head><meta charset=utf-8 />
 //<title>Change the content of a cell</title>
 //</head><body>
+
 /* <table id="myTable" border="1">
 <tr><td>Row1 cell1</td>
 <td>Row1 cell2</td></tr>
